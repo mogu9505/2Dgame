@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: b61642fc26fafc242bb7f75eb8744921
+guid: a07a570484da4fc4c96a807a8e9b7f03
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3344930476313059213
-    second: demo01_PixelSky_layer03_0
+      213: -4057652279525399919
+    second: Idle_KG_1_0
+  - first:
+      213: -6427918337461709574
+    second: Idle_KG_1_1
+  - first:
+      213: -4001876867000536830
+    second: Idle_KG_1_2
+  - first:
+      213: -8182655624047820708
+    second: Idle_KG_1_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -113,23 +122,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: demo01_PixelSky_layer03_0
+      name: Idle_KG_1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 240
-        height: 71
+        width: 100
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3706bf8347b6491d0800000000000000
-      internalID: -3344930476313059213
+      spriteID: c35e389a2dcd2b54fbe3cb7a81f0f0bf
+      internalID: -4057652279525399919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_KG_1_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6f98dda283e4d428cb05e3c144151f
+      internalID: -6427918337461709574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_KG_1_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3243fed16de766a488807e2ab4f690a5
+      internalID: -4001876867000536830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_KG_1_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004ec5d9e068d3c4f8f4305d20f5116c
+      internalID: -8182655624047820708
       vertices: []
       indices: 
       edges: []
@@ -138,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 73b506fd6f5ca1d4c8fc0407c10e68c6
     internalID: 0
     vertices: []
     indices: 
@@ -146,9 +221,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      demo01_PixelSky_layer03_0: -3344930476313059213
+      Idle_KG_1_0: -4057652279525399919
+      Idle_KG_1_1: -6427918337461709574
+      Idle_KG_1_2: -4001876867000536830
+      Idle_KG_1_3: -8182655624047820708
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

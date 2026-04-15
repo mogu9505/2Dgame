@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b61642fc26fafc242bb7f75eb8744921
+guid: 7a983553d7355cd4b9a1bcc9f494d96b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3344930476313059213
-    second: demo01_PixelSky_layer03_0
+      213: -9080921771188606777
+    second: pngtree-game-next-button-in-green-gradient-png-image_6476896_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: demo01_PixelSky_layer03_0
+      name: pngtree-game-next-button-in-green-gradient-png-image_6476896_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 240
-        height: 71
+        x: 35
+        y: 116
+        width: 289
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3706bf8347b6491d0800000000000000
-      internalID: -3344930476313059213
+      spriteID: 7c8213b03c51af180800000000000000
+      internalID: -9080921771188606777
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 171aacc5d7d7bed4f89012a5c9a79f06
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      demo01_PixelSky_layer03_0: -3344930476313059213
+      pngtree-game-next-button-in-green-gradient-png-image_6476896_0: -9080921771188606777
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

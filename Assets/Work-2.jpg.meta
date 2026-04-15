@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b61642fc26fafc242bb7f75eb8744921
+guid: 9cd4ca54244c4c74797649bef6c8ba70
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3344930476313059213
-    second: demo01_PixelSky_layer03_0
+      213: -4420486396659722550
+    second: Work-2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: demo01_PixelSky_layer03_0
+      name: Work-2_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 240
-        height: 71
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3706bf8347b6491d0800000000000000
-      internalID: -3344930476313059213
+      spriteID: ac696a00b0747a2c0800000000000000
+      internalID: -4420486396659722550
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      demo01_PixelSky_layer03_0: -3344930476313059213
+      Work-2_0: -4420486396659722550
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
